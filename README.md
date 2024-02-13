@@ -1,2 +1,3 @@
 DevStore
-![Captura de tela de 2024-02-13 16-22-53](https://github.com/claudomiro-monteiro/devstore/assets/40863800/9894a160-fb85-4bc3-add5-6d05b7e81b4b)
+![Captura de tela de 2024-02-13 16-26-41](https://github.com/claudomiro-monteiro/devstore/assets/40863800/37bda3b6-785f-418c-8d30-4c719bf95626)
+
